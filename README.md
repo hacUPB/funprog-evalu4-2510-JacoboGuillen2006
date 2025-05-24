@@ -8,3 +8,8 @@ Id.: 000541481
 
 En este repositorio se encontrara parte de lo que vimos en la unidad 4 con los punteros, arreglos de datos y cadenas de caracteres
 
+[Investigación](investigación.md )
+
+[Preguntas de control](preguntascontrol.md)
+
+[reto](reto.c)
